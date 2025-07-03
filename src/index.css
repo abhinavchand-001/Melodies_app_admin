@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.melodyheadline{
+    font-family: 'Dearsnow';
+    line-height: 1.5;
+    letter-spacing: 0.1em;
+    background-image: linear-gradient(to right, #ee10b0, #1022ee , #ee10b0, #1022ee);
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-size: 200%;
+    animation: animate 2s linear infinite;
+  }
+
+
+  .Sidebar{
+    border-right: 2px solid white;
+  }
+
+  .iamnavbar{
+    border-bottom: 2px solid #ee10b0;
+  }
