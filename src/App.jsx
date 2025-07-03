@@ -9,7 +9,7 @@ import Listsong from './pages/Listsong';
 import Addalbum from './pages/Addalbum';
 import Listalbum from './pages/Listalbum';
 
-export const url = 'https://melodies-app-backend.vercel.app/';
+export const url = 'https://melodies-app-backend.vercel.app';
 
 
 const App = () => {
