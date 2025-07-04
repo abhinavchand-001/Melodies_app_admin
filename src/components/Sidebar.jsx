@@ -12,7 +12,7 @@ import {NavLink} from 'react-router-dom'
 
 const Sidebar = () => {
   return (
-    <div className='Sidebar w-[23%] h-screen flex flex-col items-center bg-[#15191d] text-white'>
+    <div className='Sidebar w-[23%] min-h-screen flex flex-col items-center bg-[#15191d] text-white'>
 
                 <h1 className="melodyheadline text-4xl mt-1 mb-10">Melodies</h1>
 

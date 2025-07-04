@@ -47,7 +47,7 @@ const Listsong = () => {
   }, [])
 
   return (
-    <div className='m-10'>
+    <div className='m-10 min-h-screen'>
       <p className='text-white font-bold text-2xl'>All Songs List</p>
       <br />
       <div className='grid grid-cols-[0.5fr_1fr_2fr_1fr_0.5fr] items-center gap-2-5 border text-white text-sm border-gray-300 p-5 bg-[#281e29]'>

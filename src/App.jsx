@@ -16,7 +16,7 @@ const App = () => {
 
 
   return (
-    <div className='iamapp flex min-h-screen max-w-screen'>
+    <div className='iamapp flex min-h-[300vh] max-w-screen'>
 
       <ToastContainer />
       <Sidebar />
