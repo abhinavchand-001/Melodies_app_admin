@@ -21,7 +21,7 @@ const App = () => {
       <ToastContainer />
       <Sidebar />
 
-      <div className='w-full h-screen bg-[#181818]'>
+      <div className='w-full min-h-screen bg-[#181818]'>
         <Navbar />
 
         <Routes>
